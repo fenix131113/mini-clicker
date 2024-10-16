@@ -1,0 +1,4 @@
+{
+	"name": "Core",
+	"references":[ "GUID:3569be704802470bbc9e7e39a94398d6", "GUID:df2161086031445c9f9521bc037666bf", "GUID:3fbf9a508b8a56343bd9bd37b0f5d5bf", "GUID:a8c93d6ba9ccd404d8868da9b4957a7a", "GUID:773b759d35744baca056e338bf4792ac" ]
+}
