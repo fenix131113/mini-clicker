@@ -21,7 +21,7 @@ namespace ScoreSystem.View
             _score.OnScoreChanged += PrintLabel;
         }
 
-        private void Expose() => _score.OnScoreChanged += PrintLabel;
+        private void Expose() => _score.OnScoreChanged -= PrintLabel;
 
         private void OnDestroy() => Expose();
     }
